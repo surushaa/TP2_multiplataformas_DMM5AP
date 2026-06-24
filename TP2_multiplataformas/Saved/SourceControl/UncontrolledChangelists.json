@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/level_tp2/tp2.umap",
+				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/level_tp2/landscape_tp2.umap"
+			]
+		}
+	]
+}
