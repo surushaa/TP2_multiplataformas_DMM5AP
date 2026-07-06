@@ -6,29 +6,7 @@
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
 				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/level_tp2/tp2.umap",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/level_tp2/landscape_tp2.umap",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/ImportedBlenderAssets/SM_wall1.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paredmuseo/textures_wall/wallmuseum.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paredmuseo/pared.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paredmuseo/plane_divided_DefaultMaterial_BaseColor.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paredmuseo/plane_divided_DefaultMaterial_Height.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paredmuseo/plane_divided_DefaultMaterial_Metallic.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paredmuseo/plane_divided_DefaultMaterial_Normal.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paredmuseo/plane_divided_DefaultMaterial_Roughness.uasset",
-				"C:/Users/Usuario/Downloads/UE_5.6/Engine/Plugins/Interchange/Assets/Content/gltf/M_SpecularGlossiness.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/MasterMaterial/MasterMaterial.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/scene/StaticMeshes/Object_2.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/scene/StaticMeshes/Object_3.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/scene/StaticMeshes/Object_4.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/scene/StaticMeshes/Object_5.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/scene/Materials/material_0.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/scene/Textures/material_0_diffuse.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/scene/Textures/material_0_normal.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/scene/Textures/material_0_occlusion.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paredmuseo/paredmuseo/textures_wall/plaster_brick_pattern_ao_2k.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paredmuseo/paredmuseo/textures_wall/plaster_brick_pattern_diff_2k.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paredmuseo/paredmuseo/textures_wall/plaster_brick_pattern_nor_dx_2k.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paredmuseo/paredmuseo/textures_wall/plaster_brick_pattern_rough_2k.uasset"
+				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/level_tp2/landscape_tp2.umap"
 			]
 		}
 	]
