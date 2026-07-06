@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
+				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/level_tp2/tp2.umap",
+				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/level_tp2/landscape_tp2.umap",
+				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/ImportedBlenderAssets/SM_wall1.uasset",
+				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/MasterMaterial/paredmuseo.uasset",
+				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/pared_museo/paredmuseo.uasset",
+				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/pared_museo/plane_divided_DefaultMaterial_BaseColor.uasset",
+				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/pared_museo/plane_divided_DefaultMaterial_Height.uasset",
+				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/pared_museo/plane_divided_DefaultMaterial_Metallic.uasset",
+				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/pared_museo/plane_divided_DefaultMaterial_Normal.uasset",
+				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/pared_museo/plane_divided_DefaultMaterial_Roughness.uasset",
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/EngineResources/DefaultTexture.uasset",
 				"D:/github-unreal/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/level_tp2/landscape_tp2.umap",
 				"D:/github-unreal/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/concreto_rojo_pared_lobby/textures/BrickWall.uasset",
@@ -141,9 +151,7 @@
 				"C:/Users/malac/Desktop/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paneles_pared_lobby/textures/wooden_panels_ao_1k.uasset",
 				"C:/Users/malac/Desktop/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paneles_pared_lobby/textures/wooden_panels_diff_1k.uasset",
 				"C:/Users/malac/Desktop/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paneles_pared_lobby/textures/wooden_panels_nor_dx_1k.uasset",
-				"C:/Users/malac/Desktop/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paneles_pared_lobby/textures/wooden_panels_rough_1k.uasset",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/level_tp2/tp2.umap",
-				"C:/Users/Usuario/Documents/GitHub/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/level_tp2/landscape_tp2.umap"
+				"C:/Users/malac/Desktop/TP2_multiplataformas_DMM5AP/TP2_multiplataformas/Content/materials/paneles_pared_lobby/textures/wooden_panels_rough_1k.uasset"
 			]
 		}
 	]
